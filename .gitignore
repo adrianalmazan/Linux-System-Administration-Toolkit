@@ -9,3 +9,8 @@
 .idea/
 .DS_Store
 Thumbs.db
+
+#Backup archives
+
+*.tar.gz
+*.zip
