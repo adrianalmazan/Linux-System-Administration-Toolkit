@@ -61,8 +61,6 @@ Linux-System-Administration-Toolkit/
 │   ├── service_management.sh
 │   ├── file_management.sh
 │   └── security_logs.sh
-├── config/
-├── logs/
 ├── .gitignore
 └── README.md
 ```
